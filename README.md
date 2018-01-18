@@ -1,5 +1,6 @@
-Simple Tic Tac Toe Game using ReactJs
+# Simple Tic Tac Toe Game using ReactJs
 
-steps to run 
-    npm intsall
-    npm start
+## Install and Run
+1. ```npm install```
+
+2. ```npm start ```
